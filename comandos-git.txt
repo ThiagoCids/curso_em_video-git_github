@@ -1,0 +1,32 @@
+git clone: Clona um repositório Git existente em sua máquina local, criando uma cópia local do repositório em sua máquina.
+
+git add: Adiciona um arquivo ou alteração específica para o índice, preparando-as para serem salvas em um novo commit.
+
+git commit: Salva as alterações feitas no índice, criando um novo commit no histórico do repositório com uma mensagem descritiva.
+
+git push: Envia as alterações locais para o repositório remoto, atualizando o repositório remoto com as alterações feitas na branch atual.
+
+git branch: Lista todas as branches presentes no repositório, mostrando as branches atuais e as branches existentes.
+
+git checkout: Alterna entre as branches do repositório, permitindo que você trabalhe em uma branch específica.
+
+git merge: Combina as alterações de uma branch em outra, incorporando as alterações feitas em uma branch em outra branch.
+
+git status: Mostra o status das alterações feitas no repositório, mostrando quais arquivos foram alterados e quais arquivos foram adicionados ou removidos do índice.
+
+git log: Mostra o histórico de commits do repositório, mostrando o hash do commit, a mensagem do commit e quem o fez. 
+
+Essa é uma listinha que sempre tenho comigo na mesa do pc.
+
+#############################################################################################################
+
+https://gist.github.com/eltonea/a717e3c786686b674f4ebe2475ca3313
+sobre semantcs
+
+#########################################################################################################
+
+para uma pessoa que so ela usa o pc pelo que me lembro é: 
+
+git config --global user.name “NOME”
+
+git config --global user.email “EMAIL”
